@@ -7,7 +7,7 @@ for numara in benimListem:
     print(numara)
     
 
-#continue: donguyu kullanıldığı yerde (varsa sarti sagladigi yerde) o elemanı atlar ve dongu islemi devam eder.
+#continue: donguyu kullanıldığı yerde (varsa sartlarin sagladigi yerde) o elemanı atlar ve dongu islemi devam eder.
 
 for numara in benimListem:
     if numara==15:
